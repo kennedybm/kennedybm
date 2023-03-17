@@ -2,7 +2,7 @@
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kennedybm/kennedybm/blob/main/devcard.svg" width="400" alt="@kennedy_bm Dev Card"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedybm&count_private=true&show_icons=true&theme=highcontrast&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)   --: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedybm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedybm&count_private=true&show_icons=true&theme=highcontrast&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)------:[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedybm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---

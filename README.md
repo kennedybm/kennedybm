@@ -2,11 +2,11 @@
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kennedybm/kennedybm/blob/main/devcard.svg" width="400" alt="@kennedy_bm Dev Card"/></a>
 
+![](https://raw.githubusercontent.com/kennedybm/gitHubStats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kennedybm/gitHubStats/master/generated/overview.svg#gh-dark-mode-only)
+<!-- ![](https://raw.githubusercontent.com/kennedybm/gitHubStats/master/generated/languages.svg#gh-light-mode-only) -->
+<!-- ![](https://raw.githubusercontent.com/kennedybm/gitHubStats/master/generated/overview.svg#gh-light-mode-only) -->
 
-![](https://raw.githubusercontent.com/kennedybm/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kennedybm/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/kennedybm/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kennedybm/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ---
 

@@ -4,7 +4,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedybm&count_private=true&show_icons=true&theme=highcontrast&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats) <p>            <p/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedybm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ![](https://raw.githubusercontent.com/kennedybm/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kennedybm/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/kennedybm/github-stats/master/generated/languages.svg#gh-dark-mode-only)

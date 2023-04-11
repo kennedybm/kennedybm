@@ -15,8 +15,7 @@
 
 ### 🔗 Connect With Me
  <a href="https://www.linkedin.com/in/kennedybarreto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="1kennedy.bm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://portifolio-kennedybm.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
- --
- 
+
 
 ![](https://raw.githubusercontent.com/kennedybm/gitHubStats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kennedybm/gitHubStats/master/generated/overview.svg#gh-dark-mode-only)  

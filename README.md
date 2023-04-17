@@ -6,7 +6,7 @@
 - 💻 I enjoy working on frontend and backend web applications.                                          
 - 🌱 I'm currently learning more about TypeScript.
 - 👥 I’m looking to collaborate on open source projects!
-- I'm currently working in the technical test [Pokedex](https://github.com/kennedybm/teste-desenvolvimento-web). 
+- I'm currently working in the back end of [Motors Shop](https://github.com/kennedybm/Motors-Shop-API). 
 
 ### 🛠 Tech Stack
 |Front-End|Back-End| DevOps| OS |

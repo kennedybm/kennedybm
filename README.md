@@ -21,7 +21,6 @@
 <!-- ![](https://raw.githubusercontent.com/kennedybm/gitHubStats/master/generated/languages.svg#gh-light-mode-only) -->
 <!-- ![](https://raw.githubusercontent.com/kennedybm/gitHubStats/master/generated/overview.svg#gh-light-mode-only) -->
 
-
 <!-- daily dev card -->
 <!-- <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kennedybm/kennedybm/blob/main/devcard.svg" height="400" width="340" alt="@kennedy_bm Dev Card"/></a>  -->
 

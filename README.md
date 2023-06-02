@@ -4,9 +4,9 @@
 ### 🧑‍💻 About Me
 
 - 💻 I enjoy working on frontend and backend web applications.                                          
-- 🌱 I'm currently learning Java.
+- 🌱 I'm currently learning [Java](https://www.java.com/pt-BR/).
 - 👥 I’m looking to collaborate on open source projects!
-- I'm currently working in the back end of [Motors Shop](https://github.com/kennedybm/Motors-Shop-API). 
+- I'm currently working in the back end of [WheelDeals](https://github.com/kennedybm/Motors-Shop-API). 
 
 ### 🛠 Tech Stack
 |Front-End|Back-End| DevOps| OS |

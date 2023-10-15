@@ -8,7 +8,6 @@
 - I'm currently working in the [Weloop](https://github.com/Movin-Weloop) AI project. 
 <!-- - I'm currently working in the back end of [WheelDeals](https://github.com/kennedybm/WheelDeals-API). -->  
 
-
 ### 🛠 Tech Stack
 |Front-End|Back-End| DevOps| OS |
 | ----------- | ----------- | ------------ | ------- |

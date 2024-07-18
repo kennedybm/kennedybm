@@ -1,7 +1,7 @@
 ### 🧑‍💻 About Me
 
 - 💻 I enjoy working on frontend and backend web applications.                                          
-- 🌱 I'm currently learning [Machine Learning | TensorFlow](https://www.tensorflow.org/).
+- 🌱 I'm currently learning [Machine Learning]
 - 👥 I’m looking to collaborate on open source projects!
 - I'm currently working in the [Weloop](https://we-loop.com/) AI project. 
 <!-- - I'm currently working in the back end of [WheelDeals](https://github.com/kennedybm/WheelDeals-API). -->  

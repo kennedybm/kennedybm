@@ -2,7 +2,7 @@
 
 - 💻 Software Engineer, AI Engineer 🪜.
 - 🌱 Learning how to Build Applications with Foundation Models.
-- I'm currently helping build: [Forself](https://forself-mailing.pages.dev/) AI BASED project.
+- 🤖 I'm currently helping build: [Forself](https://forself-mailing.pages.dev/) AI Based Project.
 <!-- - I'm currently working in the back end of [WheelDeals](https://github.com/kennedybm/WheelDeals-API). -->  
 
 ### 🛠 Tech Stack

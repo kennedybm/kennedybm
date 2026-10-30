@@ -35,7 +35,7 @@
 <!-- ![](https://raw.githubusercontent.com/kennedybm/gitHubStats/master/generated/overview.svg#gh-light-mode-only) --> 
 
 ### 🔗 Connect With Me
- <a href="https://www.linkedin.com/in/kennedybarreto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="1kennedy.bm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/kennedybarreto/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="LinkedIn" /></a> <a href="mailto:1kennedy.bm@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" title="Gmail" /></a>
 
 © 2026 
 

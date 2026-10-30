@@ -6,15 +6,26 @@
 <!-- - I'm currently working in the back end of [WheelDeals](https://github.com/kennedybm/WheelDeals-API). -->  
 
 ### 🛠 Tech Stack
-| | |
-| --- | --- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>AI / ML</th>
+    <th>Databases</th>
+    <th>DevOps</th>
+    <th>OS</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts,py,go" height="48" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="48" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" height="48" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" height="48" /> <img src="icons/huggingface.svg" height="48" /> <img src="icons/nlp.svg" height="48" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="48" /> <img src="icons/milvus.svg" height="48" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="48" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux,ubuntu" height="48" /></td>
+  </tr>
+</table>
 
 
 ![](https://raw.githubusercontent.com/kennedybm/gitHubStats/master/generated/languages.svg#gh-dark-mode-only)
